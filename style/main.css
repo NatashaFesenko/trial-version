@@ -8,3 +8,7 @@
     border-color: green;
     border-style: solid dotted none dotted; 
 }
+
+body {
+    margin: 0;
+}
